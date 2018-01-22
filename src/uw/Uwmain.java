@@ -8,9 +8,6 @@ import javax.swing.UnsupportedLookAndFeelException;
 
 import org.opencv.core.Core;
 
-import com.mathworks.engine.EngineException;
-import com.mathworks.engine.MatlabEngine;
-
 public class Uwmain {
 
 
