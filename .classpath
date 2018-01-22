@@ -9,5 +9,6 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Program Files/MATLAB/R2017a/bin/win64"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/MATLAB/R2017a/extern/engines/java/jar/engine.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
